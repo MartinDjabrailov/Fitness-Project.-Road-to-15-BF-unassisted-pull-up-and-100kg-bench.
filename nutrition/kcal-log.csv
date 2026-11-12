@@ -1,0 +1,2 @@
+date,meal,food,kcal,protein_g,carbs_g,fat_g,notes
+2026-11-12,test,Test entry,500,40,50,15,TEST - delete once real logging starts
